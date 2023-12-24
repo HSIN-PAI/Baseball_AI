@@ -1,0 +1,799 @@
+            <tbody role="rowgroup">
+                <tr role="row" class="thead-tr sticky"
+                    style="display: none; position: relative; top: 64px; width: 1329.6px; transform: translateX(0px);">
+                    <th colspan="1" role="columnheader" style="position: static; width: 93.8px;">球員<span></span></th>
+                    <th colspan="1" role="columnheader" title="Toggle SortBy"
+                        style="cursor: pointer; position: static; width: 54.0125px;">背號<span></span></th>
+                    <th colspan="1" role="columnheader" title="Toggle SortBy"
+                        style="cursor: pointer; position: static; width: 61.1125px;">PA<span></span></th>
+                    <th colspan="1" role="columnheader" title="Toggle SortBy"
+                        style="cursor: pointer; position: static; width: 64.675px;">AVG<span></span></th>
+                    <th colspan="1" role="columnheader" title="Toggle SortBy"
+                        style="cursor: pointer; position: static; width: 65.8125px;">OBP<span></span></th>
+                    <th colspan="1" role="columnheader" title="Toggle SortBy"
+                        style="cursor: pointer; position: static; width: 64.675px;">SLG<span></span></th>
+                    <th colspan="1" role="columnheader" title="Toggle SortBy"
+                        style="cursor: pointer; position: static; width: 64.675px;">ISO<span></span></th>
+                    <th colspan="1" role="columnheader" title="Toggle SortBy"
+                        style="cursor: pointer; position: static; width: 76.2625px;">BABIP<span></span></th>
+                    <th colspan="1" role="columnheader" title="Toggle SortBy"
+                        style="cursor: pointer; position: static; width: 83.575px;">BIP%<span></span></th>
+                    <th colspan="1" role="columnheader" title="Toggle SortBy"
+                        style="cursor: pointer; position: static; width: 71.775px;">OPS<span></span></th>
+                    <th colspan="1" role="columnheader" title="Toggle SortBy"
+                        style="cursor: pointer; position: static; width: 76.225px;">OPS+<span></span></th>
+                    <th colspan="1" role="columnheader" title="Toggle SortBy"
+                        style="cursor: pointer; position: static; width: 76.7875px;">tOPS+<span></span></th>
+                    <th colspan="1" role="columnheader" title="Toggle SortBy"
+                        style="cursor: pointer; position: static; width: 64.675px;">RC<span></span></th>
+                    <th colspan="1" role="columnheader" title="Toggle SortBy"
+                        style="cursor: pointer; position: static; width: 75.7625px;">wOBA<span></span></th>
+                    <th colspan="1" role="columnheader" title="Toggle SortBy"
+                        style="cursor: pointer; position: static; width: 76.4625px;">BB%<span></span></th>
+                    <th colspan="1" role="columnheader" title="Toggle SortBy"
+                        style="cursor: pointer; position: static; width: 71.775px;">BB/K<span></span></th>
+                    <th colspan="1" role="columnheader" title="Toggle SortBy"
+                        style="cursor: pointer; position: static; width: 83.575px;">K%<span></span></th>
+                    <th colspan="1" role="columnheader" title="Toggle SortBy"
+                        style="cursor: pointer; position: static; width: 103.963px;">PutAway%<span></span></th>
+                </tr>
+                <tr role="row">
+                    <td role="cell">
+                        <button width="auto" class="sc-fzpmMD hKpVds button button-mini nowrap"
+                            type="button">唐肇廷</button>
+                    </td>
+                    <td role="cell">6</td>
+                    <td role="cell">75</td>
+                    <td role="cell">.197</td>
+                    <td role="cell">.293</td>
+                    <td role="cell">.212</td>
+                    <td role="cell">.015</td>
+                    <td role="cell">.217</td>
+                    <td role="cell">80.0%</td>
+                    <td role="cell">.505</td>
+                    <td role="cell">47.9</td>
+                    <td role="cell">43.8</td>
+                    <td role="cell">4.1</td>
+                    <td role="cell">.247</td>
+                    <td role="cell">12.0%</td>
+                    <td role="cell">1.500</td>
+                    <td role="cell">8.0%</td>
+                    <td role="cell">21.4%</td>
+                </tr>
+                <tr role="row">
+                    <td role="cell">
+                        <button width="auto" class="sc-fzpmMD hKpVds button button-mini nowrap"
+                            type="button">許哲晏</button>
+                    </td>
+                    <td role="cell">10</td>
+                    <td role="cell">22</td>
+                    <td role="cell">.222</td>
+                    <td role="cell">.364</td>
+                    <td role="cell">.278</td>
+                    <td role="cell">.056</td>
+                    <td role="cell">.267</td>
+                    <td role="cell">68.2%</td>
+                    <td role="cell">.641</td>
+                    <td role="cell">87.9</td>
+                    <td role="cell">82.7</td>
+                    <td role="cell">1.7</td>
+                    <td role="cell">.312</td>
+                    <td role="cell">13.6%</td>
+                    <td role="cell">1.000</td>
+                    <td role="cell">13.6%</td>
+                    <td role="cell">33.3%</td>
+                </tr>
+                <tr role="row">
+                    <td role="cell">
+                        <button width="auto" class="sc-fzpmMD hKpVds button button-mini nowrap"
+                            type="button">陳傑憲</button>
+                    </td>
+                    <td role="cell">24</td>
+                    <td role="cell">481</td>
+                    <td role="cell">.315</td>
+                    <td role="cell">.413</td>
+                    <td role="cell">.397</td>
+                    <td role="cell">.082</td>
+                    <td role="cell">.343</td>
+                    <td role="cell">75.6%</td>
+                    <td role="cell">.810</td>
+                    <td role="cell">135.8</td>
+                    <td role="cell">129.8</td>
+                    <td role="cell">65.6</td>
+                    <td role="cell">.368</td>
+                    <td role="cell">13.1%</td>
+                    <td role="cell">1.465</td>
+                    <td role="cell">8.9%</td>
+                    <td role="cell">19.1%</td>
+                </tr>
+                <tr role="row">
+                    <td role="cell">
+                        <button width="auto" class="sc-fzpmMD hKpVds button button-mini nowrap"
+                            type="button">胡金龍</button>
+                    </td>
+                    <td role="cell">51</td>
+                    <td role="cell">232</td>
+                    <td role="cell">.274</td>
+                    <td role="cell">.312</td>
+                    <td role="cell">.340</td>
+                    <td role="cell">.065</td>
+                    <td role="cell">.324</td>
+                    <td role="cell">76.2%</td>
+                    <td role="cell">.651</td>
+                    <td role="cell">89.3</td>
+                    <td role="cell">84.6</td>
+                    <td role="cell">23.1</td>
+                    <td role="cell">.291</td>
+                    <td role="cell">5.6%</td>
+                    <td role="cell">.325</td>
+                    <td role="cell">17.2%</td>
+                    <td role="cell">37.4%</td>
+                </tr>
+                <tr role="row">
+                    <td role="cell">
+                        <button width="auto" class="sc-fzpmMD hKpVds button button-mini nowrap"
+                            type="button">林益全</button>
+                    </td>
+                    <td role="cell">99</td>
+                    <td role="cell">311</td>
+                    <td role="cell">.306</td>
+                    <td role="cell">.357</td>
+                    <td role="cell">.387</td>
+                    <td role="cell">.081</td>
+                    <td role="cell">.347</td>
+                    <td role="cell">77.8%</td>
+                    <td role="cell">.744</td>
+                    <td role="cell">116.0</td>
+                    <td role="cell">110.7</td>
+                    <td role="cell">39.2</td>
+                    <td role="cell">.332</td>
+                    <td role="cell">6.8%</td>
+                    <td role="cell">.500</td>
+                    <td role="cell">13.5%</td>
+                    <td role="cell">35.3%</td>
+                </tr>
+                <tr role="row">
+                    <td role="cell">
+                        <button width="auto" class="sc-fzpmMD hKpVds button button-mini nowrap"
+                            type="button">陳鏞基</button>
+                    </td>
+                    <td role="cell">13</td>
+                    <td role="cell">293</td>
+                    <td role="cell">.336</td>
+                    <td role="cell">.392</td>
+                    <td role="cell">.458</td>
+                    <td role="cell">.122</td>
+                    <td role="cell">.382</td>
+                    <td role="cell">74.6%</td>
+                    <td role="cell">.850</td>
+                    <td role="cell">146.4</td>
+                    <td role="cell">140.5</td>
+                    <td role="cell">46.0</td>
+                    <td role="cell">.375</td>
+                    <td role="cell">6.8%</td>
+                    <td role="cell">.465</td>
+                    <td role="cell">14.7%</td>
+                    <td role="cell">30.9%</td>
+                </tr>
+                <tr role="row">
+                    <td role="cell">
+                        <button width="auto" class="sc-fzpmMD hKpVds button button-mini nowrap"
+                            type="button">林岱安</button>
+                    </td>
+                    <td role="cell">31</td>
+                    <td role="cell">171</td>
+                    <td role="cell">.224</td>
+                    <td role="cell">.272</td>
+                    <td role="cell">.276</td>
+                    <td role="cell">.051</td>
+                    <td role="cell">.260</td>
+                    <td role="cell">75.1%</td>
+                    <td role="cell">.548</td>
+                    <td role="cell">59.3</td>
+                    <td role="cell">55.3</td>
+                    <td role="cell">11.7</td>
+                    <td role="cell">.250</td>
+                    <td role="cell">5.8%</td>
+                    <td role="cell">.345</td>
+                    <td role="cell">17.0%</td>
+                    <td role="cell">34.9%</td>
+                </tr>
+                <tr role="row">
+                    <td role="cell">
+                        <button width="auto" class="sc-fzpmMD hKpVds button button-mini nowrap"
+                            type="button">邱智呈</button>
+                    </td>
+                    <td role="cell">14</td>
+                    <td role="cell">258</td>
+                    <td role="cell">.313</td>
+                    <td role="cell">.386</td>
+                    <td role="cell">.436</td>
+                    <td role="cell">.123</td>
+                    <td role="cell">.373</td>
+                    <td role="cell">69.7%</td>
+                    <td role="cell">.822</td>
+                    <td role="cell">138.4</td>
+                    <td role="cell">132.6</td>
+                    <td role="cell">37.0</td>
+                    <td role="cell">.367</td>
+                    <td role="cell">8.5%</td>
+                    <td role="cell">.489</td>
+                    <td role="cell">17.4%</td>
+                    <td role="cell">31.0%</td>
+                </tr>
+                <tr role="row">
+                    <td role="cell">
+                        <button width="auto" class="sc-fzpmMD hKpVds button button-mini nowrap"
+                            type="button">林靖凱</button>
+                    </td>
+                    <td role="cell">64</td>
+                    <td role="cell">381</td>
+                    <td role="cell">.261</td>
+                    <td role="cell">.299</td>
+                    <td role="cell">.302</td>
+                    <td role="cell">.040</td>
+                    <td role="cell">.305</td>
+                    <td role="cell">79.5%</td>
+                    <td role="cell">.601</td>
+                    <td role="cell">74.8</td>
+                    <td role="cell">70.4</td>
+                    <td role="cell">29.8</td>
+                    <td role="cell">.273</td>
+                    <td role="cell">2.9%</td>
+                    <td role="cell">.200</td>
+                    <td role="cell">14.4%</td>
+                    <td role="cell">30.9%</td>
+                </tr>
+                <tr role="row">
+                    <td role="cell">
+                        <button width="auto" class="sc-fzpmMD hKpVds button button-mini nowrap"
+                            type="button">陳重羽</button>
+                    </td>
+                    <td role="cell">65</td>
+                    <td role="cell">256</td>
+                    <td role="cell">.275</td>
+                    <td role="cell">.339</td>
+                    <td role="cell">.360</td>
+                    <td role="cell">.086</td>
+                    <td role="cell">.322</td>
+                    <td role="cell">74.7%</td>
+                    <td role="cell">.699</td>
+                    <td role="cell">103.0</td>
+                    <td role="cell">98.0</td>
+                    <td role="cell">26.6</td>
+                    <td role="cell">.316</td>
+                    <td role="cell">7.4%</td>
+                    <td role="cell">.500</td>
+                    <td role="cell">14.8%</td>
+                    <td role="cell">29.5%</td>
+                </tr>
+                <tr role="row">
+                    <td role="cell">
+                        <button width="auto" class="sc-fzpmMD hKpVds button button-mini nowrap"
+                            type="button">林祖傑</button>
+                    </td>
+                    <td role="cell">39</td>
+                    <td role="cell">156</td>
+                    <td role="cell">.196</td>
+                    <td role="cell">.265</td>
+                    <td role="cell">.246</td>
+                    <td role="cell">.051</td>
+                    <td role="cell">.245</td>
+                    <td role="cell">72.8%</td>
+                    <td role="cell">.511</td>
+                    <td role="cell">48.9</td>
+                    <td role="cell">45.0</td>
+                    <td role="cell">8.8</td>
+                    <td role="cell">.239</td>
+                    <td role="cell">7.7%</td>
+                    <td role="cell">.429</td>
+                    <td role="cell">17.9%</td>
+                    <td role="cell">35.9%</td>
+                </tr>
+                <tr role="row">
+                    <td role="cell">
+                        <button width="auto" class="sc-fzpmMD hKpVds button button-mini nowrap"
+                            type="button">陳重廷</button>
+                    </td>
+                    <td role="cell">66</td>
+                    <td role="cell">262</td>
+                    <td role="cell">.280</td>
+                    <td role="cell">.323</td>
+                    <td role="cell">.343</td>
+                    <td role="cell">.063</td>
+                    <td role="cell">.325</td>
+                    <td role="cell">79.9%</td>
+                    <td role="cell">.666</td>
+                    <td role="cell">93.5</td>
+                    <td role="cell">88.7</td>
+                    <td role="cell">25.8</td>
+                    <td role="cell">.300</td>
+                    <td role="cell">4.6%</td>
+                    <td role="cell">.343</td>
+                    <td role="cell">13.4%</td>
+                    <td role="cell">29.4%</td>
+                </tr>
+                <tr role="row">
+                    <td role="cell">
+                        <button width="auto" class="sc-fzpmMD hKpVds button button-mini nowrap"
+                            type="button">蘇智傑</button>
+                    </td>
+                    <td role="cell">32</td>
+                    <td role="cell">471</td>
+                    <td role="cell">.300</td>
+                    <td role="cell">.391</td>
+                    <td role="cell">.447</td>
+                    <td role="cell">.147</td>
+                    <td role="cell">.325</td>
+                    <td role="cell">71.8%</td>
+                    <td role="cell">.838</td>
+                    <td role="cell">143.0</td>
+                    <td role="cell">137.1</td>
+                    <td role="cell">69.7</td>
+                    <td role="cell">.371</td>
+                    <td role="cell">11.3%</td>
+                    <td role="cell">.898</td>
+                    <td role="cell">12.5%</td>
+                    <td role="cell">30.6%</td>
+                </tr>
+                <tr role="row">
+                    <td role="cell">
+                        <button width="auto" class="sc-fzpmMD hKpVds button button-mini nowrap"
+                            type="button">林子豪</button>
+                    </td>
+                    <td role="cell">2</td>
+                    <td role="cell">286</td>
+                    <td role="cell">.263</td>
+                    <td role="cell">.360</td>
+                    <td role="cell">.348</td>
+                    <td role="cell">.085</td>
+                    <td role="cell">.309</td>
+                    <td role="cell">71.3%</td>
+                    <td role="cell">.708</td>
+                    <td role="cell">106.1</td>
+                    <td role="cell">100.8</td>
+                    <td role="cell">30.9</td>
+                    <td role="cell">.323</td>
+                    <td role="cell">12.2%</td>
+                    <td role="cell">.833</td>
+                    <td role="cell">14.7%</td>
+                    <td role="cell">26.8%</td>
+                </tr>
+                <tr role="row">
+                    <td role="cell">
+                        <button width="auto" class="sc-fzpmMD hKpVds button button-mini nowrap"
+                            type="button">李丞齡</button>
+                    </td>
+                    <td role="cell">9</td>
+                    <td role="cell">72</td>
+                    <td role="cell">.200</td>
+                    <td role="cell">.264</td>
+                    <td role="cell">.262</td>
+                    <td role="cell">.062</td>
+                    <td role="cell">.255</td>
+                    <td role="cell">65.3%</td>
+                    <td role="cell">.525</td>
+                    <td role="cell">53.0</td>
+                    <td role="cell">49.1</td>
+                    <td role="cell">4.4</td>
+                    <td role="cell">.242</td>
+                    <td role="cell">6.9%</td>
+                    <td role="cell">.278</td>
+                    <td role="cell">25.0%</td>
+                    <td role="cell">45.0%</td>
+                </tr>
+                <tr role="row">
+                    <td role="cell">
+                        <button width="auto" class="sc-fzpmMD hKpVds button button-mini nowrap"
+                            type="button">何恆佑</button>
+                    </td>
+                    <td role="cell">7</td>
+                    <td role="cell">47</td>
+                    <td role="cell">.178</td>
+                    <td role="cell">.196</td>
+                    <td role="cell">.222</td>
+                    <td role="cell">.044</td>
+                    <td role="cell">.242</td>
+                    <td role="cell">71.7%</td>
+                    <td role="cell">.418</td>
+                    <td role="cell">21.2</td>
+                    <td role="cell">18.3</td>
+                    <td role="cell">2.0</td>
+                    <td role="cell">.187</td>
+                    <td role="cell">2.1%</td>
+                    <td role="cell">.083</td>
+                    <td role="cell">25.5%</td>
+                    <td role="cell">46.2%</td>
+                </tr>
+                <tr role="row">
+                    <td role="cell">
+                        <button width="auto" class="sc-fzpmMD hKpVds button button-mini nowrap"
+                            type="button">田子杰</button>
+                    </td>
+                    <td role="cell">49</td>
+                    <td role="cell">1</td>
+                    <td role="cell">.000</td>
+                    <td role="cell">.000</td>
+                    <td role="cell">.000</td>
+                    <td role="cell">.000</td>
+                    <td role="cell">NaN</td>
+                    <td role="cell">0.0%</td>
+                    <td role="cell">.000</td>
+                    <td role="cell">-100.0</td>
+                    <td role="cell">-100.0</td>
+                    <td role="cell">.0</td>
+                    <td role="cell">.000</td>
+                    <td role="cell">0.0%</td>
+                    <td role="cell">.000</td>
+                    <td role="cell">100.0%</td>
+                    <td role="cell">100.0%</td>
+                </tr>
+                <tr role="row">
+                    <td role="cell">
+                        <button width="auto" class="sc-fzpmMD hKpVds button button-mini nowrap"
+                            type="button">林安可</button>
+                    </td>
+                    <td role="cell">77</td>
+                    <td role="cell">292</td>
+                    <td role="cell">.247</td>
+                    <td role="cell">.322</td>
+                    <td role="cell">.471</td>
+                    <td role="cell">.224</td>
+                    <td role="cell">.258</td>
+                    <td role="cell">65.1%</td>
+                    <td role="cell">.793</td>
+                    <td role="cell">128.7</td>
+                    <td role="cell">123.6</td>
+                    <td role="cell">38.2</td>
+                    <td role="cell">.339</td>
+                    <td role="cell">8.2%</td>
+                    <td role="cell">.421</td>
+                    <td role="cell">19.5%</td>
+                    <td role="cell">39.3%</td>
+                </tr>
+                <tr role="row">
+                    <td role="cell">
+                        <button width="auto" class="sc-fzpmMD hKpVds button button-mini nowrap"
+                            type="button">潘傑楷</button>
+                    </td>
+                    <td role="cell">35</td>
+                    <td role="cell">182</td>
+                    <td role="cell">.288</td>
+                    <td role="cell">.383</td>
+                    <td role="cell">.346</td>
+                    <td role="cell">.059</td>
+                    <td role="cell">.331</td>
+                    <td role="cell">72.2%</td>
+                    <td role="cell">.730</td>
+                    <td role="cell">112.5</td>
+                    <td role="cell">107.0</td>
+                    <td role="cell">20.4</td>
+                    <td role="cell">.338</td>
+                    <td role="cell">13.2%</td>
+                    <td role="cell">1.000</td>
+                    <td role="cell">13.2%</td>
+                    <td role="cell">28.2%</td>
+                </tr>
+                <tr role="row">
+                    <td role="cell">
+                        <button width="auto" class="sc-fzpmMD hKpVds button button-mini nowrap"
+                            type="button">柯育民</button>
+                    </td>
+                    <td role="cell">36</td>
+                    <td role="cell">33</td>
+                    <td role="cell">.267</td>
+                    <td role="cell">.313</td>
+                    <td role="cell">.333</td>
+                    <td role="cell">.067</td>
+                    <td role="cell">.296</td>
+                    <td role="cell">84.4%</td>
+                    <td role="cell">.646</td>
+                    <td role="cell">87.6</td>
+                    <td role="cell">83.0</td>
+                    <td role="cell">3.1</td>
+                    <td role="cell">.292</td>
+                    <td role="cell">6.1%</td>
+                    <td role="cell">.667</td>
+                    <td role="cell">9.1%</td>
+                    <td role="cell">30.0%</td>
+                </tr>
+                <tr role="row">
+                    <td role="cell">
+                        <button width="auto" class="sc-fzpmMD hKpVds button button-mini nowrap"
+                            type="button">黃勇傳</button>
+                    </td>
+                    <td role="cell">61</td>
+                    <td role="cell">121</td>
+                    <td role="cell">.234</td>
+                    <td role="cell">.314</td>
+                    <td role="cell">.262</td>
+                    <td role="cell">.028</td>
+                    <td role="cell">.281</td>
+                    <td role="cell">73.6%</td>
+                    <td role="cell">.576</td>
+                    <td role="cell">68.2</td>
+                    <td role="cell">63.7</td>
+                    <td role="cell">8.5</td>
+                    <td role="cell">.273</td>
+                    <td role="cell">9.1%</td>
+                    <td role="cell">.579</td>
+                    <td role="cell">15.7%</td>
+                    <td role="cell">30.6%</td>
+                </tr>
+                <tr role="row">
+                    <td role="cell">
+                        <button width="auto" class="sc-fzpmMD hKpVds button button-mini nowrap"
+                            type="button">姚雨翔</button>
+                    </td>
+                    <td role="cell">67</td>
+                    <td role="cell">10</td>
+                    <td role="cell">.250</td>
+                    <td role="cell">.300</td>
+                    <td role="cell">.375</td>
+                    <td role="cell">.125</td>
+                    <td role="cell">.286</td>
+                    <td role="cell">70.0%</td>
+                    <td role="cell">.675</td>
+                    <td role="cell">95.4</td>
+                    <td role="cell">90.8</td>
+                    <td role="cell">1.0</td>
+                    <td role="cell">.287</td>
+                    <td role="cell">10.0%</td>
+                    <td role="cell">.500</td>
+                    <td role="cell">20.0%</td>
+                    <td role="cell">33.3%</td>
+                </tr>
+                <tr role="row">
+                    <td role="cell">
+                        <button width="auto" class="sc-fzpmMD hKpVds button button-mini nowrap"
+                            type="button">張聖豪</button>
+                    </td>
+                    <td role="cell">46</td>
+                    <td role="cell">2</td>
+                    <td role="cell">.500</td>
+                    <td role="cell">.500</td>
+                    <td role="cell">.500</td>
+                    <td role="cell">.000</td>
+                    <td role="cell">.500</td>
+                    <td role="cell">100.0%</td>
+                    <td role="cell">1.000</td>
+                    <td role="cell">190.9</td>
+                    <td role="cell">183.5</td>
+                    <td role="cell">.5</td>
+                    <td role="cell">.450</td>
+                    <td role="cell">0.0%</td>
+                    <td role="cell">NaN</td>
+                    <td role="cell">0.0%</td>
+                    <td role="cell">NaN%</td>
+                </tr>
+                <tr role="row">
+                    <td role="cell">
+                        <button width="auto" class="sc-fzpmMD hKpVds button button-mini nowrap"
+                            type="button">鄭鎧文</button>
+                    </td>
+                    <td role="cell">28</td>
+                    <td role="cell">23</td>
+                    <td role="cell">.158</td>
+                    <td role="cell">.304</td>
+                    <td role="cell">.158</td>
+                    <td role="cell">.000</td>
+                    <td role="cell">.231</td>
+                    <td role="cell">56.5%</td>
+                    <td role="cell">.462</td>
+                    <td role="cell">36.3</td>
+                    <td role="cell">32.2</td>
+                    <td role="cell">.8</td>
+                    <td role="cell">.244</td>
+                    <td role="cell">13.0%</td>
+                    <td role="cell">.500</td>
+                    <td role="cell">26.1%</td>
+                    <td role="cell">40.0%</td>
+                </tr>
+                <tr role="row">
+                    <td role="cell">
+                        <button width="auto" class="sc-fzpmMD hKpVds button button-mini nowrap"
+                            type="button">羅暐捷</button>
+                    </td>
+                    <td role="cell">8</td>
+                    <td role="cell">36</td>
+                    <td role="cell">.121</td>
+                    <td role="cell">.167</td>
+                    <td role="cell">.182</td>
+                    <td role="cell">.061</td>
+                    <td role="cell">.190</td>
+                    <td role="cell">58.3%</td>
+                    <td role="cell">.348</td>
+                    <td role="cell">1.3</td>
+                    <td role="cell">-1.2</td>
+                    <td role="cell">1.0</td>
+                    <td role="cell">.158</td>
+                    <td role="cell">5.6%</td>
+                    <td role="cell">.154</td>
+                    <td role="cell">36.1%</td>
+                    <td role="cell">72.2%</td>
+                </tr>
+                <tr role="row">
+                    <td role="cell">
+                        <button width="auto" class="sc-fzpmMD hKpVds button button-mini nowrap"
+                            type="button">郭阜林</button>
+                    </td>
+                    <td role="cell">5</td>
+                    <td role="cell">71</td>
+                    <td role="cell">.250</td>
+                    <td role="cell">.282</td>
+                    <td role="cell">.338</td>
+                    <td role="cell">.088</td>
+                    <td role="cell">.296</td>
+                    <td role="cell">76.1%</td>
+                    <td role="cell">.620</td>
+                    <td role="cell">79.6</td>
+                    <td role="cell">75.3</td>
+                    <td role="cell">6.2</td>
+                    <td role="cell">.275</td>
+                    <td role="cell">2.8%</td>
+                    <td role="cell">.154</td>
+                    <td role="cell">18.3%</td>
+                    <td role="cell">40.6%</td>
+                </tr>
+                <tr role="row">
+                    <td role="cell">
+                        <button width="auto" class="sc-fzpmMD hKpVds button button-mini nowrap"
+                            type="button">江亮緯</button>
+                    </td>
+                    <td role="cell">27</td>
+                    <td role="cell">9</td>
+                    <td role="cell">.111</td>
+                    <td role="cell">.111</td>
+                    <td role="cell">.111</td>
+                    <td role="cell">.000</td>
+                    <td role="cell">.143</td>
+                    <td role="cell">77.8%</td>
+                    <td role="cell">.222</td>
+                    <td role="cell">-35.4</td>
+                    <td role="cell">-37.1</td>
+                    <td role="cell">.1</td>
+                    <td role="cell">.100</td>
+                    <td role="cell">0.0%</td>
+                    <td role="cell">.000</td>
+                    <td role="cell">22.2%</td>
+                    <td role="cell">66.7%</td>
+                </tr>
+                <tr role="row">
+                    <td role="cell">
+                        <button width="auto" class="sc-fzpmMD hKpVds button button-mini nowrap"
+                            type="button">施冠宇</button>
+                    </td>
+                    <td role="cell">3</td>
+                    <td role="cell">62</td>
+                    <td role="cell">.236</td>
+                    <td role="cell">.323</td>
+                    <td role="cell">.327</td>
+                    <td role="cell">.091</td>
+                    <td role="cell">.295</td>
+                    <td role="cell">71.0%</td>
+                    <td role="cell">.650</td>
+                    <td role="cell">89.0</td>
+                    <td role="cell">84.3</td>
+                    <td role="cell">5.6</td>
+                    <td role="cell">.298</td>
+                    <td role="cell">9.7%</td>
+                    <td role="cell">.545</td>
+                    <td role="cell">17.7%</td>
+                    <td role="cell">40.7%</td>
+                </tr>
+                <tr role="row">
+                    <td role="cell">
+                        <button width="auto" class="sc-fzpmMD hKpVds button button-mini nowrap"
+                            type="button">張偉聖</button>
+                    </td>
+                    <td role="cell">52</td>
+                    <td role="cell">12</td>
+                    <td role="cell">.200</td>
+                    <td role="cell">.333</td>
+                    <td role="cell">.200</td>
+                    <td role="cell">.000</td>
+                    <td role="cell">.286</td>
+                    <td role="cell">58.3%</td>
+                    <td role="cell">.533</td>
+                    <td role="cell">56.8</td>
+                    <td role="cell">52.2</td>
+                    <td role="cell">.7</td>
+                    <td role="cell">.270</td>
+                    <td role="cell">16.7%</td>
+                    <td role="cell">.667</td>
+                    <td role="cell">25.0%</td>
+                    <td role="cell">42.9%</td>
+                </tr>
+                <tr role="row">
+                    <td role="cell">
+                        <button width="auto" class="sc-fzpmMD hKpVds button button-mini nowrap"
+                            type="button">林培緯</button>
+                    </td>
+                    <td role="cell">25</td>
+                    <td role="cell">3</td>
+                    <td role="cell">.000</td>
+                    <td role="cell">.000</td>
+                    <td role="cell">.000</td>
+                    <td role="cell">.000</td>
+                    <td role="cell">.000</td>
+                    <td role="cell">66.7%</td>
+                    <td role="cell">.000</td>
+                    <td role="cell">-100.0</td>
+                    <td role="cell">-100.0</td>
+                    <td role="cell">.0</td>
+                    <td role="cell">.000</td>
+                    <td role="cell">0.0%</td>
+                    <td role="cell">.000</td>
+                    <td role="cell">33.3%</td>
+                    <td role="cell">50.0%</td>
+                </tr>
+                <tr role="row">
+                    <td role="cell">
+                        <button width="auto" class="sc-fzpmMD hKpVds button button-mini nowrap"
+                            type="button">張翔</button>
+                    </td>
+                    <td role="cell">4</td>
+                    <td role="cell">1</td>
+                    <td role="cell">.000</td>
+                    <td role="cell">.000</td>
+                    <td role="cell">.000</td>
+                    <td role="cell">.000</td>
+                    <td role="cell">.000</td>
+                    <td role="cell">100.0%</td>
+                    <td role="cell">.000</td>
+                    <td role="cell">-100.0</td>
+                    <td role="cell">-100.0</td>
+                    <td role="cell">.0</td>
+                    <td role="cell">.000</td>
+                    <td role="cell">0.0%</td>
+                    <td role="cell">NaN</td>
+                    <td role="cell">0.0%</td>
+                    <td role="cell">0.0%</td>
+                </tr>
+                <tr role="row">
+                    <td role="cell">
+                        <button width="auto" class="sc-fzpmMD hKpVds button button-mini nowrap"
+                            type="button">楊竣翔</button>
+                    </td>
+                    <td role="cell">94</td>
+                    <td role="cell">8</td>
+                    <td role="cell">.286</td>
+                    <td role="cell">.375</td>
+                    <td role="cell">.286</td>
+                    <td role="cell">.000</td>
+                    <td role="cell">.333</td>
+                    <td role="cell">75.0%</td>
+                    <td role="cell">.661</td>
+                    <td role="cell">93.4</td>
+                    <td role="cell">88.1</td>
+                    <td role="cell">.8</td>
+                    <td role="cell">.315</td>
+                    <td role="cell">12.5%</td>
+                    <td role="cell">1.000</td>
+                    <td role="cell">12.5%</td>
+                    <td role="cell">50.0%</td>
+                </tr>
+                <tr role="row">
+                    <td role="cell">
+                        <button width="auto" class="sc-fzpmMD hKpVds button button-mini nowrap"
+                            type="button">林佳緯</button>
+                    </td>
+                    <td role="cell">20</td>
+                    <td role="cell">11</td>
+                    <td role="cell">.111</td>
+                    <td role="cell">.273</td>
+                    <td role="cell">.222</td>
+                    <td role="cell">.111</td>
+                    <td role="cell">.143</td>
+                    <td role="cell">63.6%</td>
+                    <td role="cell">.495</td>
+                    <td role="cell">44.6</td>
+                    <td role="cell">40.7</td>
+                    <td role="cell">.5</td>
+                    <td role="cell">.244</td>
+                    <td role="cell">18.2%</td>
+                    <td role="cell">1.000</td>
+                    <td role="cell">18.2%</td>
+                    <td role="cell">28.6%</td>
+                </tr>
+            </tbody>
